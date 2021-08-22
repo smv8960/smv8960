@@ -1,7 +1,9 @@
 ## Hey there, I'm  Salman Mahboob <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ### Love to code the solutions of problems , hustling on competetive programming, Machine Learning and Flutter
-<img align="right" alt="GIF" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1621705542437/4shUyEk2t.gif" width="500" height="320" />
+
+<img align="right" alt="GIF" src="gif1.gif" width="500" height="280" />
+           
 <div align="start">
 <p align="start">Let's connect!</p>
 
@@ -19,10 +21,8 @@
 </div>
 
 <br>
-
-
-
-
+<br>
+<br>
 
 <div align="start">
 <p align="start">Tools & Technology 🛠</p>
